@@ -1,0 +1,20 @@
+{
+  "name": "shoppe-cart",
+  "version": "1.0.0",
+  "description": "Criar um carrinho de compras baseado no carrinho de compras da shopee, onde o carrinho armazene itens e faça o cálculo de sub-itens automaticamente.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JOSUE-ASV/shoppe-cart.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JOSUE-ASV/shoppe-cart/issues"
+  },
+  "homepage": "https://github.com/JOSUE-ASV/shoppe-cart#readme"
+}
